@@ -1,5 +1,5 @@
 def multiple(x,y):
-    pass
+    return x*y
 
 def add(c,v):
     pass
